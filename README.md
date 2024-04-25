@@ -4,4 +4,4 @@
 
 1. The goal of this project is to determine whether an image as input is a plastic bottle or not.
 
-2. Images from a dataset are taken by the group's members. 
+2. Images from a dataset are taken by the group's members and on google image.
